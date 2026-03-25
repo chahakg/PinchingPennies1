@@ -1,8 +1,8 @@
 # CS222 Repository Initialization
 
-**Danielle DiMonte:**  
-**dad7:**  
-**danielledim:**  
+**Lillian Gunn:**  
+**lgunn2:**  
+**lsgunn11:**  
 
 ## 1. Repository Access
 Confirm that you were able to access your team repository.
