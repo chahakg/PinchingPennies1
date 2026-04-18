@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Budget Tracker</title>
+</head>
+<body>
+
+  <header>
+    <h1>Budget Tracker</h1>
+  </header>
+
+  <main>
+
+    <h2>Add Expense</h2>
+
+    <label>Item:</label>
+    <input type="text" id="item"><br><br>
+
+    <label>Amount:</label>
+    <input type="number" id="amount"><br><br>
+
+    <button type="button" onclick="addExpense()">Add</button>
+
+    <h2>Expenses</h2>
+
+    <table border="1" cellpadding="8" id="expenseTable">
+      <tr>
+        <th>Item</th>
+        <th>Amount ($)</th>
+      </tr>
+    </table>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 PinchingPennies</p>
+  </footer>
+
+  <script src="tracker.js"></script>
+
+</body>
+</html>
