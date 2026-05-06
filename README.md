@@ -22,22 +22,24 @@
 
 # Devlopers 
 
-- Chahak - Built the structure of the site.
+- Chahak - Built the structure of the site, the index and budget.
 
-- Lilly - Developed the visual design of the site.
+- Lilly - Developed the visual design of the site, the UI/UX.
 
-- Danielle - Developed the logic layed out in the structure.
+- Danielle - Developed the logic layed out in the structure, the js file.
 
 # Environment Setup
 ## Running the Project
 
 1. Clone the repository
 2. Open the project folder
-3. Open index.html in your browser
+3. Download the 'Live Server Extension', or run locally
+4. Using the extension, go live, or press run
+5. Use the site locally!
 
 
 # Using the Project
-Starting from the Home Page, navigate to the budget tracking page.
+Starting from the Home Page, navigate to the budget tracking page, add your budget, and expenses.
 
 ## Budget Tracker
 
