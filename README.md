@@ -15,6 +15,10 @@
     
  -  Budget updates and spending insights
 
+# Technical Architecture
+<img width="1505" height="851" alt="Screenshot 2026-05-06 at 11 21 51 AM" src="https://github.com/user-attachments/assets/5732cdab-aac3-43be-b26d-0b4372652d65" />
+
+
 
 # Devlopers 
 
