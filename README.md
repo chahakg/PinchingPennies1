@@ -20,14 +20,6 @@
 
 
 
-# Devlopers 
-
-- Chahak - Built the structure of the site, the index and budget.
-
-- Lilly - Developed the visual design of the site, the UI/UX.
-
-- Danielle - Developed the logic layed out in the structure, the js file.
-
 # Environment Setup
 ## Running the Project
 
