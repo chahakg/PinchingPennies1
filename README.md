@@ -1,3 +1,5 @@
+To use this website go to:
+pinchingpennies.netlify.app
 # Introduction
 
 ## What is PinchingPennies?
@@ -20,19 +22,9 @@
 
 
 
-# Environment Setup
-## Running the Project
-
-1. Clone the repository
-2. Open the project folder
-3. Download the 'Live Server Extension', or run locally
-4. Using the extension, go live, or press run
-5. Use the site locally!
-
-
 # Using the Project
 Starting from the Home Page, navigate to the budget tracking page, add your budget, and expenses.
-
+pinchingpennies.netlify.app
 ## Budget Tracker
 
 1. Enter your monthly budget
